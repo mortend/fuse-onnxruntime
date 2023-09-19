@@ -1,0 +1,10 @@
+{
+  "outputType": "console",
+  "references": [
+    "Fuse",
+    "FuseJS"
+  ],
+  "includes": [
+    "*"
+  ]
+}

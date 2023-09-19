@@ -1,0 +1,5 @@
+.uno/
+build/
+node_modules/
+onnxruntime/
+onnxruntime-managed/

@@ -1,0 +1,4 @@
+if CIL {
+    onnxruntime: "https://www.nuget.org/api/v2/package/Microsoft.ML.OnnxRuntime/1.15.1"
+    onnxruntime-managed: "https://www.nuget.org/api/v2/package/Microsoft.ML.OnnxRuntime.Managed/1.15.1"
+}
